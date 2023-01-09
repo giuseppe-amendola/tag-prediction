@@ -1,5 +1,5 @@
 """
-API
+API tag prediction
 Input: Json with title and body of question
 Endpoint (also known as route):
 - /prediction: return tags predicted for the question submitted
